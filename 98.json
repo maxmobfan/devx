@@ -24,7 +24,7 @@
     {
       "ad_status": 1,
       "main_ad": "fan",
-      "backup_ad": "admob",
+      "backup_ad": "unity",
      "admob_banner_unit_id": "ca-app-pub-3108907200017204/7802110302",
       "admob_interstitial_unit_id": "ca-app-pub-3108907200017204/9810731518",
       "admob_native_unit_id": "ca-app-pub-3108907200017204/8363602683",
@@ -37,7 +37,7 @@
       "fan_interstitial_unit_id": "804574161065260_804574221065254",
       "fan_native_unit_id": "804574161065260_804574207731922",
        "startapp_app_id": "0",
-      "unity_game_id": "4725055",
+      "unity_game_id": "5340626",
       "unity_banner_placement_id": "Banner_Android",
       "unity_interstitial_placement_id": "Interstitial_Android",
       "applovin_banner_unit_id": "0",
